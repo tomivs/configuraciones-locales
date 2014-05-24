@@ -1,0 +1,4 @@
+[Command]
+FileManager=thunar %s
+Terminal=terminology
+Logout=pkill $GV

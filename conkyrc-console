@@ -1,0 +1,9 @@
+out_to_console yes
+out_to_x no
+background no
+update_interval 1
+total_run_times 0
+use_spacer none
+#use_xft yes
+TEXT
+${cpu cpu}% :: $memperc% ($mem) :: ${downspeed eth0} :: ${upspeed eth0} :: ${time %a, %H:%M:%S, %d-%m-%Y}
